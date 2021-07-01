@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 46a33644e9409d248b998e9d6d5f4553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7651004391538028090
+    second: aBirthdaySpriteSheet_0
+  - first:
+      213: 6732512053148229800
+    second: aBirthdaySpriteSheet_1
+  - first:
+      213: -7308666839622407172
+    second: aBirthdaySpriteSheet_2
+  - first:
+      213: 3458235836550909928
+    second: aBirthdaySpriteSheet_3
+  - first:
+      213: -3915967945784451523
+    second: aBirthdaySpriteSheet_4
+  - first:
+      213: 5709329053708030022
+    second: aBirthdaySpriteSheet_5
+  - first:
+      213: -3966497436696847357
+    second: aBirthdaySpriteSheet_6
+  - first:
+      213: 455419510996276377
+    second: aBirthdaySpriteSheet_7
+  - first:
+      213: 7357743820440961929
+    second: aBirthdaySpriteSheet_8
+  - first:
+      213: 4287963526937665192
+    second: aBirthdaySpriteSheet_9
+  - first:
+      213: 962387774031563564
+    second: aBirthdaySpriteSheet_10
+  - first:
+      213: 1452349713235757167
+    second: aBirthdaySpriteSheet_11
+  - first:
+      213: -233183180680288978
+    second: aBirthdaySpriteSheet_12
+  - first:
+      213: 2318155877722684353
+    second: aBirthdaySpriteSheet_13
+  - first:
+      213: -6267389000836205885
+    second: aBirthdaySpriteSheet_14
+  - first:
+      213: -1606830213278551004
+    second: aBirthdaySpriteSheet_15
+  - first:
+      213: -1890266640772617609
+    second: aBirthdaySpriteSheet_16
+  - first:
+      213: 1267833192017220398
+    second: aBirthdaySpriteSheet_17
+  - first:
+      213: 8667036827298074288
+    second: aBirthdaySpriteSheet_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee39415f3dd2a60800000000000000
+      internalID: 7651004391538028090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0afedba00be6d50800000000000000
+      internalID: 6732512053148229800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 210
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb21aa7b36629a90800000000000000
+      internalID: -7308666839622407172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 212
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef842bbb2f1eff20800000000000000
+      internalID: 3458235836550909928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 203
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e93b7a6efa7a9c0800000000000000
+      internalID: -3915967945784451523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 203
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6409518668c9b3f40800000000000000
+      internalID: 5709329053708030022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cdf23c89b24f8c0800000000000000
+      internalID: -3966497436696847357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 176
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99417b0e1a9f15600800000000000000
+      internalID: 455419510996276377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98385bd8505fb1660800000000000000
+      internalID: 7357743820440961929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 171
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae53f0fb18e18b30800000000000000
+      internalID: 4287963526937665192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b845fd4961b5d00800000000000000
+      internalID: 962387774031563564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 176
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ce0b8e58c72410800000000000000
+      internalID: 1452349713235757167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 173
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25a4f3f12193ccf0800000000000000
+      internalID: -233183180680288978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf4a91d7ebb2020800000000000000
+      internalID: 2318155877722684353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b7f7e8e2c509a0800000000000000
+      internalID: -6267389000836205885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ba233f6463b9e0800000000000000
+      internalID: -1606830213278551004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2af9518c64c5e0800000000000000
+      internalID: -1890266640772617609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d2a4229f389110800000000000000
+      internalID: 1267833192017220398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aBirthdaySpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be84521310874870800000000000000
+      internalID: 8667036827298074288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
