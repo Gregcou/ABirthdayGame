@@ -117,7 +117,7 @@ public class AMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.name == "Waffle")
+        if (other.tag == "Food")
         {
             Destroy(other.gameObject);
             health++;
@@ -129,7 +129,7 @@ public class AMovement : MonoBehaviour
             score++;
         }
 
-        if (other.name == "Pad")
+        if (other.tag == "Pad")
         {
              rb2d.AddForce(new Vector2(0, padHeight), ForceMode2D.Force);
         }

@@ -8,6 +8,8 @@ TagManager:
   - Oldman
   - Cockroach
   - ScoreItem
+  - Pad
+  - Food
   layers:
   - Default
   - TransparentFX
