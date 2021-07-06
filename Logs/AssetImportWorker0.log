@@ -94,3 +94,38 @@ System memory in use after: 52.4 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2295.
 Total: 3.290100 ms (FindLiveObjects: 0.222500 ms CreateObjectMapping: 0.085000 ms MarkObjects: 2.827000 ms  DeleteObjects: 0.153600 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004381 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.966500 ms (FindLiveObjects: 0.239200 ms CreateObjectMapping: 0.086600 ms MarkObjects: 2.170200 ms  DeleteObjects: 0.468600 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.4 MB.
+System memory in use after: 52.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 4.638800 ms (FindLiveObjects: 0.360200 ms CreateObjectMapping: 0.129300 ms MarkObjects: 3.926600 ms  DeleteObjects: 0.220600 ms)
+
